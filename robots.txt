@@ -40,10 +40,4 @@ Disallow: /shihui/
 Disallow: /products?
 Disallow: /product_
 Disallow: /products_
-Disallow: /dummy.htm
-Disallow: /products;
-Disallow: /print
-Disallow: /books/
-Disallow: /bkshp?*q=*
-Disallow: /books?*q=*
-Disallow: /books?*output=*
+Disallow: /dummy.html
