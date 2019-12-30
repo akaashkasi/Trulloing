@@ -47,4 +47,3 @@ Disallow: /books/
 Disallow: /bkshp?*q=*
 Disallow: /books?*q=*
 Disallow: /books?*output=*
-Disallow: /dummy.html
